@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-<!-- My name is Ashley! I am a dedicated, problem-solving professional transitioning into the cloud technology industry. I have several years of expertise as a Customer Account Specialists, where I have gained a multifaceted skillset with the ability to learn and adapt to changing environments quickly.
-I am currently attending Level Up in Tech, a DevOps Engineering Bootcamp where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control. -->
+My name is Ashley! I am a dedicated, problem-solving professional transitioning into the cloud technology industry. I have several years of expertise as a Customer Account Specialists, where I have gained a multifaceted skillset with the ability to learn and adapt to changing environments quickly. I am currently attending Level Up in Tech, a DevOps Engineering Bootcamp where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control. 
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ashley%20MyrickEllis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Ashley%20MyrickEllis-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ashley%20MyrickEllis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ashley-myrick-ellis-610a1a201/)](www.linkedin.com/in/ashley-myrick-ellis-610a1a201)
+[![Medium Badge](https://img.shields.io/badge/Ashley%20MyrickEllis-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ashleymyrickellis/)](https://medium.com/@ashleymyrickellis/)
+[![Gmail Badge](https://img.shields.io/badge/-ashleymonet17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashleymonet17@gmail.com)](mailto:ashleymonet17@gmail.com)
 
 ## ⚡ Technologies
 
@@ -26,8 +25,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AshleyMyrickEllis)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshleyMyrickEllis)
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
