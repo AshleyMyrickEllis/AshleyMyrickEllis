@@ -6,7 +6,7 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ashley%20Myrick%20Ellis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-myrick-ellis-610a1a201/)](https://www.linkedin.com/in/ashley-myrick-ellis-610a1a201/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ashley%20Myrick%20Ellis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashley-myrick-ellis/)](https://www.linkedin.com/in/ashley-myrick-ellis/)
 [![Medium Badge](https://img.shields.io/badge/Ashley%20MyrickEllis-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ashleymyrickellis/)](https://medium.com/@ashleymyrickellis/)
 [![Gmail Badge](https://img.shields.io/badge/-ashleymonet17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashleymonet17@gmail.com)](mailto:ashleymonet17@gmail.com)
 
