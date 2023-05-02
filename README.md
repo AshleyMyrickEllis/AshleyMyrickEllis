@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is Ashley! I am a dedicated, problem-solving professional transitioning into the cloud technology industry. I have several years of expertise as a Customer Account Specialists, where I have gained a multifaceted skillset with the ability to learn and adapt to changing environments quickly. I am currently attending Level Up in Tech, a DevOps Engineering Bootcamp where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control. 
-
+My name is Ashley!Tech-savvy professional with multiple cloud projects published in AWS in Plain English, FAUN Publication, Python in Plain English, & Code Like A Girl. Equipped with technical knowledge of systems optimization, network maintenance, AWS cloud management, and DevOps development. In-depth understanding of Automation/Open-source software tools, DevOps, software release, and Linux administration. Proficient in using Terraform to automate the provisioning of Cloud Infrastructure. Remarkable ability to plan, configure, and improve systems architecture to achieve high performance. Please visit my Medium blog where I document various projects that I have completed.
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
